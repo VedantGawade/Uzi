@@ -6,7 +6,10 @@ It is still in Beta phase.
 I am still developing new modules to add to Uzi.
 
 Some of them are::
-- Creation of an encrypted ssh server for transfer of files to Host
-- Custom Backdoor access
-- Keylogger
+- Creation of an encrypted ssh server for transfer of files to Host.
+- Custom Backdoor access.
+- Keylogger.
 - Using metasploit modules for post exploitation.
+
+## Tip
+Though this would work on all platfroms, it is recommended to use this on Windows. To hide the source code by converting this into a Windows executable file.
